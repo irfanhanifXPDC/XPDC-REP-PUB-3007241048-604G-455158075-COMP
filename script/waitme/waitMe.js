@@ -1,8 +1,3 @@
-/*
-waitMe - 1.19 [31.10.17]
-Author: vadimsva
-Github: https://github.com/vadimsva/waitMe
-*/
 (function($) {
   $.fn.waitMe = function(method) {
     return this.each(function() {
